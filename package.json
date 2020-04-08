@@ -1,0 +1,12 @@
+{
+  "name": "jscontext",
+  "version": "1.0.0",
+  "description": "JS context bindings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "r47717",
+  "license": "MIT"
+}
